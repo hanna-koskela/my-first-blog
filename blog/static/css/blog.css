@@ -59,12 +59,12 @@ h4 {
 
 .btn-default,
 .btn-default:visited {
-    color: #C25100;
+    color: #AED9E0;
     background: none;
-    border-color: #C25100;
+    border-color: #AED9E0;
 }
 
 .btn-default:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #AED9E0;
 }
